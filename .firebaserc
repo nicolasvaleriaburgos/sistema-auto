@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "desarrollo-64490": {
+      "hosting": {
+        "cars": [
+          "desarrollo-64490"
+        ]
+      }
+    }
+  }
+}

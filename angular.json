@@ -121,8 +121,16 @@
               "devServerTarget": "cars:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
-  "defaultProject": "cars"
+    }
+  },
+  "defaultProject": "cars",
+  "cli": {
+    "analytics": false
+  }
 }
